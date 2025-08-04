@@ -1,4 +1,4 @@
-# UniBot
+# UniHelperBot
 Telegram bot that helps students solve academic problems, generate structured written content, and export the results as properly formatted PDF documents. It uses the OpenAI GPT-3.5 API and supports limited free usage with optional monetization.
 Features:
   -Solve math, physics, and general academic problems with step-by-step answers
